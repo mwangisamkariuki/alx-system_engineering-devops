@@ -14,3 +14,5 @@ Write a script that creates an empty file called hello
 write a script that adds permission to the owner of the file helo.
 #Task 6:Multiple permissions
 A script that adds multple permissionsto the owner and the group owner, and read permission to the other users, to the file named hello
+#Task 7:add execution permission to all Everybody!
+a script that adds execution permission to the owner, the group owner and the other users, to the file hello
