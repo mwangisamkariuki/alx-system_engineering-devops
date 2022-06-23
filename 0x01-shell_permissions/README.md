@@ -5,3 +5,6 @@ You can assume that the user betty will exist when we will run your script
 Write a script that prints the effective username of the current user
 #Task 2:Groups listing where the current user is part of (groups)
 print all groups a user belongs to using commang groups
+#Task 3: New owner
+Script that change the owner of the file hello to the user betty
+chowner hello betty
