@@ -9,4 +9,6 @@ print all groups a user belongs to using commang groups
 Script that change the owner of the file hello to the user betty
 chowner betty hello
 #Task 4: Create an empty file hello
-Write a script that creates an empty file called hello.
+Write a script that creates an empty file called hello
+#Task 5:Add execurte permission to the current user
+write a script that adds permission to the owner of the file helo.
