@@ -7,4 +7,6 @@ Write a script that prints the effective username of the current user
 print all groups a user belongs to using commang groups
 #Task 3: New owner
 Script that change the owner of the file hello to the user betty
-chowner hello betty
+chowner betty hello
+#Task 4: Create an empty file hello
+Write a script that creates an empty file called hello.
