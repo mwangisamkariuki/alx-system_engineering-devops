@@ -12,3 +12,5 @@ chowner betty hello
 Write a script that creates an empty file called hello
 #Task 5:Add execurte permission to the current user
 write a script that adds permission to the owner of the file helo.
+#Task 6:Multiple permissions
+A script that adds multple permissionsto the owner and the group owner, and read permission to the other users, to the file named hello
