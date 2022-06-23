@@ -16,5 +16,10 @@ write a script that adds permission to the owner of the file helo.
 A script that adds multple permissionsto the owner and the group owner, and read permission to the other users, to the file named hello
 #Task 7:add execution permission to all Everybody!
 a script that adds execution permission to the owner, the group owner and the other users, to the file hell
-#James Bond
+#Task 8:james Bond
 set permission as follows to the file hello Owner: no permission at all Group: no permission at all Other users: all the permission (007)
+#Task 9:John Doe
+Write a script that sets the mode of the file hello to this:-rwxr-x-wx 1
+
+#Task 10:Look in the mirror
+Write a script that sets the mode of the file hello the same as olleh’s mode.
