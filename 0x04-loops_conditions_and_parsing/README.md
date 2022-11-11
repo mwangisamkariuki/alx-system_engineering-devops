@@ -10,9 +10,9 @@
 # Task 8: For ls( list contents of a directory)
 # Task 9: To file, or not to file
 # Task 10: fizzbuzz
-# Task 11
+# Task 11: Read and cut
 # Task 12
-# Task 13
-# Task 14
+# Task 13: Let's parse Apache logs
+# Task 14: BigData
 
     
