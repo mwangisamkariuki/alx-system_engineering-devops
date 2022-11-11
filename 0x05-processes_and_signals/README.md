@@ -7,6 +7,14 @@
 # Task 5: stop me now!
 # Task 6: a Bash script that stops 4-to_infinity_and_beyond process using pkill
 # Task 7:ighlander- a script with echo and trap
-# Tak  8:Beheaded process - kills the process above
-# task 9:
+# Tak  8:Beheaded process - kills the process above (KILLS)
+# task 9: Process and PID file
+    Write a Bash script that:
+    Creates the file /var/run/myscript.pid containing its PID
+    Displays To infinity and beyond indefinitely
+    Displays I hate the kill command when receiving a SIGTERM signal
+    Displays Y U no love me?! when receiving a SIGINT signal
+    Deletes the file /var/run/myscript.pid and terminates
+    itself when receiving a SIGQUIT or SIGTERM signal
+# Task 10:
 
