@@ -16,5 +16,5 @@
     Displays Y U no love me?! when receiving a SIGINT signal
     Deletes the file /var/run/myscript.pid and terminates
     itself when receiving a SIGQUIT or SIGTERM signal
-# Task 10:
+# Task 10:Manage my process
 
