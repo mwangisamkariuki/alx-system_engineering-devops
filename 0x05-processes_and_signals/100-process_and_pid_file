@@ -7,11 +7,6 @@
 #   Then Deletes the file /var/run/myscript.pid and terminates upon
 #+  receiving a SIGQUIT or SIGTERM.
 
-terminator() {
-  rm /var/run/myscript.pid
-  exit
-}
-
 echo "$$" > /var/run/myscript.pid
 
 while true
@@ -22,3 +17,8 @@ do
   trap 'echo "I hate the kill command" && terminator' SIGTERM
   trap 'terminator' SIGQUIT
 done
+
+terminator() {
+  rm /var/run/myscript.pid
+  exit
+}
