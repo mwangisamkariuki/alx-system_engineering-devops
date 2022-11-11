@@ -17,4 +17,5 @@
     Deletes the file /var/run/myscript.pid and terminates
     itself when receiving a SIGQUIT or SIGTERM signal
 # Task 10:Manage my process
+    
 
