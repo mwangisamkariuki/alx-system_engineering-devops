@@ -6,4 +6,4 @@ Task 4: UDP and TCP Difference
 Task 5: TCP and UDP ports (IP+Port = socket)
 Task 6: check if the host is on a network:
         use Ping command
-
+Task 7:
