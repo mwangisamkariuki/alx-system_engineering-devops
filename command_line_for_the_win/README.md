@@ -6,3 +6,7 @@
 
     Task 9:
     Symbolic Link
+ 
+# 2nd Task:
+    Complete the 9 next tasks,
+    getting to 18 total.

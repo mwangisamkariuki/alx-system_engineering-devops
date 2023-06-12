@@ -22,3 +22,14 @@ character in between and ends with n ^h.n$)
 
 Task 6: Call me maybe
 regular exp matching 10 digit number with no spaces
+
+Task 7: OMG WHY ARE YOU SHOUTING?
+Regular expression that matches uppercase letters
+
+Task 8: Textme
+Logs are attached.
+    Requirements:
+    Your script should output: [SENDER],[RECEIVER],[FLAGS]
+    The sender phone number or name (including country code if present)
+    The receiver phone number or name (including country code if present)
+    The flags that were used
