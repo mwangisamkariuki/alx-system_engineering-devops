@@ -1,4 +1,4 @@
-# Fix a huge amount of failed requests
+# Fix a huge amount of failed requests on the server
 
 exec {'replace':
   provider => shell,
